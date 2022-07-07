@@ -18,7 +18,7 @@
     "bootstrap": "^4.1.3",
     "bootstrap-vue": "^2.11.0",
     "lodash": "^4.17.19",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nuxt": "^2.0.0",
     "vee-validate": "^3.2.5",
     "vue-print-nb": "^1.5.0",
